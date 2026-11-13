@@ -1,0 +1,5 @@
+{
+  "jail_root": "/srv/app/static",
+  "max_bytes": 256,
+  "allow_absolute": false
+}
